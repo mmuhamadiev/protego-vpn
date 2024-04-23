@@ -1,0 +1,23 @@
+{
+                "start": "START",
+                "connected": "Connected",
+                "disconnected": "Disconnected",
+                "tap_connect": "Tap to connect",
+                "tap_disconnect": "Tap to disconnect",
+                "settings": "Settings",
+                "about": "About",
+                "language": "Language",
+                "terms": "Term of Service",
+                "privacy": "Privacy Policy",
+                "instruction": "Instruction",
+                "instruction2": "2 Allow adding Vpn configuration",
+                "instruction2_img": "assets/images/instruction1_en.png",
+                "instruction3": "3 Enter phone password to add Vpn configuration",
+                "instruction3_img": "assets/images/instruction2_en.png",
+                "instruction4": "4 Congratulations, Vpn ready to use",
+                "instruction4_img": "assets/images/instruction3_en.png",
+                "pending": "Pending",
+                "pending2": "Waiting connection",
+                "bad": "Bad internet",
+                "about_app": "Overview: Experience secure and unrestricted internet access with VPNSecure. Connect to our network server to browse the web privately, access geo-restricted content, and stay safe on public Wi-Fi.\nKey Features:\n. Privacy Protection\n. Access Anywhere\n. Fast and Reliable\n. No Logs\n. User-Friendly"
+}
